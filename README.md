@@ -21,4 +21,4 @@ Projeto criado para o Bootcamp Santander da DIO. Ebook contando a breve históri
 
 ### Canva - para estruturar o Ebook
 Veja como ficou o Ebook clicando no link abaixo:  
-[A Breve História do Python]
+[A Breve História do Python](https://github.com/MuriloVictor22/dio-bootcamp-santander-ebook-chatgpt/blob/main/A%20Breve%20Hist%C3%B3ria%20do%20Python%20e%20Sua%20Import%C3%A2ncia%20na%20Computa%C3%A7%C3%A3o_20240602_105139_0000.pdf)
